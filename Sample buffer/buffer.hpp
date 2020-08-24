@@ -5,7 +5,7 @@
 #include "mbed.h"
 using namespace std;
 
-//Template Buffer class that can 
+//Template Buffer class that can sample data of various types.
 
 template <class T>
 class Buffer {
